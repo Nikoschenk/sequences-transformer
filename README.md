@@ -13,7 +13,7 @@ pip install -r requirements.txt
 ## Fine-tuning BERT for Sequence Relation Classification
 
 ### Data
-The [data](https://github.com/Nikoschenk/sequences-transformer/tree/master/data/train-test-dev) is split into training, test, and development sets.
+The [data](https://github.com/Nikoschenk/sequences-transformer/tree/master/data) is split into training, test, and development sets.
 
 
 Run the following command to fine-tune a BERT<sub>BASE</sub> model on a sequence classification task.
