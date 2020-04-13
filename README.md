@@ -24,7 +24,7 @@ python sequences-trainer.py \
   --model_name_or_path bert-base-uncased \
   --task_name seq-classification \
   --do_train --do_eval \
-  --data_dir data/train-test-dev/  \
+  --data_dir data/ \
   --max_seq_length 20 --per_gpu_train_batch_size 4 \
   --learning_rate 2e-5 --num_train_epochs 20.0 \
   --output_dir gens/ \
