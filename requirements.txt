@@ -1,0 +1,6 @@
+transformers==2.2.2
+torch==1.4.0
+protobuf==3.11.3
+tensorboardX==2.0
+scikit-learn==0.22.2.post1
+scipy==1.4.1
